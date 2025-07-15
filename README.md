@@ -42,6 +42,6 @@ I’m passionate about bridging academic AI research with practical, real-world 
 
 ### 📄 My CV
 
-You can view or download my CV [here]()
+You can view or download my CV [here](./Nastos_Vasileios_CV.pdf)
 
 > _“Code is the closest thing we have to magic.”_  
