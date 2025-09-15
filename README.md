@@ -44,7 +44,7 @@ I’m passionate about bridging academic AI research with practical, real-world 
 
 
 <a href="./nastos_vasileios_eng_cv.pdf">
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="40" height="30" style="margin-right:30px;" />
+  <img src="https://flagsapi.com/GB/shiny/64.png" width="40" height="30" style="margin-right:30px;" />
 </a>
 <a href="./nastos_vasileios_gr_cv.pdf">
   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gr.svg" width="40" height="30" />
