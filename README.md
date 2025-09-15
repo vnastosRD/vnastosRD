@@ -42,7 +42,7 @@ I’m passionate about bridging academic AI research with practical, real-world 
 
 ### 📄 My CV
 
-- 🇬🇧 [English CV](./Nastos_Vasileios_CV_EN.pdf)
-- 🇬🇷 [Βιογραφικό στα Ελληνικά](./Nastos_Vasileios_CV_GR.pdf)
+<a href="./Nastos_Vasileios_CV_EN.pdf"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="30"></a>
+<a href="./Nastos_Vasileios_CV_GR.pdf"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gr.svg" width="30"></a>
 
 > _“Code is the closest thing we have to magic.”_  
