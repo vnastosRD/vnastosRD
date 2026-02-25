@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Vasileios Nastos
 
 🎓 MSc in Informatics & Telecommunications — University of Ioannina  
-🧑‍💻 Machine Learning / Deep Learning Freelancer 
+🧑‍💻 Machine Learning / Deep Learning Freelancer <br>
 🤝 Software developer at [DigitalRates](https://digitalrates.ai/) <br>
 🤖 AI Solutions | 🧪 Research & Prototyping | 🧠 Smart Systems  
 📍 Based in Greece | Open to remote collaborations  
