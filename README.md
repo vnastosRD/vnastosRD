@@ -2,7 +2,7 @@
 
 🎓 MSc in Informatics & Telecommunications — University of Ioannina  
 🧑‍💻 Machine Learning / Deep Learning Freelancer 
-🤝 Software developer at [DigitalRates](https://digitalrates.ai/) 
+🤝 Software developer at [DigitalRates](https://digitalrates.ai/) <br>
 🤖 AI Solutions | 🧪 Research & Prototyping | 🧠 Smart Systems  
 📍 Based in Greece | Open to remote collaborations  
 
